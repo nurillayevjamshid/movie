@@ -1,0 +1,18 @@
+{
+  "name": "movie-web-app",
+  "version": "1.0.0",
+  "description": "Modern Cinema & Movie Streaming Web App for Web and Telegram Mini App",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "movie",
+    "cinema",
+    "streaming",
+    "telegram-mini-app",
+    "vercel"
+  ],
+  "author": "Jamshid Nurillayev",
+  "license": "MIT"
+}
